@@ -2,7 +2,7 @@
 
 A learning platform that makes learning easy and more competitive. It provides learning and practice exercises to learn different languages.
 
-![Mera Box Banner](https://raw.githubusercontent.com/Jayant-001/Portfolio/main/src/assets/images/projects/pocket_library_project.png)
+![Mera Box Banner](https://raw.githubusercontent.com/Aashika2002/pocket-library/main/public/pocket_library_project.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ To get started with Pocket Cloud, follow these steps:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Jayant-001/Language-Learning-App.git`
+1. Clone the repository: `git clone https://github.com/Aashika2002/pocket-library.git`
 2. Navigate to the project directory: `cd Language-Learning-App`
 3. Generate Prisma client: `npx prisma generate`
 4. Install the dependencies: `yarn install`
@@ -45,15 +45,4 @@ To get started with Pocket Cloud, follow these steps:
 2. JWT_SECRET
 3. NEXT_PUBLIC_SERVER_URL
 4. SERVER_URL
-
-## Feedback
-
-If you have any feedback, please reach out to me at jayant.gupta.dln@gmail.com
-
-##
-
-Connect with us:
-- Email: [jayant.gupta.dln@gmail.com](jayant.gupta.dln@gmail.com)
-- LinkedIn: [@jayant-cse](https://www.linkedin.com/in/jayant-cse/)
-- Website: [https://jayant-gupta.vercel.app](https://jayant-gupta.vercel.app)
 
